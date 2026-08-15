@@ -41,9 +41,29 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-projects-light.svg">
-  <img src="./assets/featured-projects.svg" alt="Muhammet Nail Farfur — Featured Projects" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/phase4-projects-v7-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/phase4-projects-v7-light.svg">
+  <img src="./assets/phase4-projects-v7-dark.svg" alt="Muhammet Nail Farfur — Featured Projects" width="100%">
 </picture>
 
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/nael5x/creative-ai">
+    <img src="https://img.shields.io/badge/Creative_AI-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE">
+  </a>
+  <a href="https://github.com/nael5x/Football-training-tracker">
+    <img src="https://img.shields.io/badge/Football_Tracker-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA">
+  </a>
+  <a href="https://github.com/nael5x/skyline-mobile">
+    <img src="https://img.shields.io/badge/Skyline_Store-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE">
+  </a>
+  <a href="https://github.com/nael5x/tiktok-live-scraping">
+    <img src="https://img.shields.io/badge/Nexus_Engine-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA">
+  </a>
+  <a href="https://github.com/nael5x/SpyScan">
+    <img src="https://img.shields.io/badge/SpyScan-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=10B981">
+  </a>
+</p>
