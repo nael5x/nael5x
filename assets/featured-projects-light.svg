@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="860" viewBox="0 0 1180 860">
+<style>
+:root{
+  --bg:#F8FAFC;
+  --panel:#FFFFFF;
+  --panel2:#F1F5F9;
+  --text:#0F172A;
+  --muted:#475569;
+  --cyan:#0891B2;
+  --purple:#7C3AED;
+  --accent:#10B981;
+  --border:#BAE6FD;
+  --line:#E2E8F0;
+}
+text{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+.title{fill:var(--cyan);font-weight:700;letter-spacing:1px}
+.muted{fill:var(--muted)}
+.white{fill:var(--text)}
+.purple{fill:var(--purple)}
+.green{fill:var(--accent)}
+.card{fill:var(--panel2);stroke:var(--border);stroke-width:1}
+.tag{fill:#FFFFFF;stroke:var(--purple);stroke-width:1}
+.btn{fill:#FFFFFF;stroke:var(--cyan);stroke-width:1}
+</style>
+
+<rect width="1180" height="860" fill="var(--bg)"/>
+<rect x="16" y="16" width="1148" height="828" rx="12" fill="var(--panel)" stroke="var(--cyan)" stroke-width="1.2"/>
+
+<!-- top bar -->
+<rect x="16" y="16" width="1148" height="40" rx="12" fill="#F1F5F9"/>
+<path d="M16 56H1164" stroke="var(--border)"/>
+<circle cx="35" cy="36" r="5" fill="var(--cyan)"/>
+<circle cx="52" cy="36" r="5" fill="var(--cyan)" opacity=".85"/>
+<circle cx="69" cy="36" r="5" fill="var(--cyan)" opacity=".65"/>
+<text x="90" y="41" font-size="14" font-weight="500" fill="var(--cyan)">projects.sh --featured</text>
+<text x="1132" y="41" font-size="18" fill="var(--cyan)" text-anchor="end">—  □  ×</text>
+
+<!-- section header -->
+<text x="48" y="104" font-size="13" class="purple">FEATURED.PROJECTS</text>
+<text x="48" y="138" font-size="28" class="white" font-weight="700">Selected Work</text>
+<text x="48" y="164" font-size="14" class="muted">Full-stack · Mobile · AI · Automation · Security</text>
+<line x1="48" y1="184" x2="1132" y2="184" stroke="var(--line)"/>
+
+<!-- CARD 01 -->
+<g transform="translate(48 210)">
+  <rect width="526" height="220" rx="10" class="card"/>
+  <text x="22" y="30" font-size="12" class="purple">01 / FEATURED</text>
+  <rect x="414" y="14" width="90" height="24" rx="12" fill="#ECFDF5" stroke="var(--accent)"/>
+  <circle cx="430" cy="26" r="4" fill="var(--accent)"/>
+  <text x="441" y="30" font-size="11" class="green">PUBLIC</text>
+
+  <text x="22" y="72" font-size="24" class="title">CREATIVE AI</text>
+  <text x="22" y="99" font-size="13" class="muted">Bilingual AI discovery, updates &amp; neutral comparison platform.</text>
+
+  <g transform="translate(22 121)">
+    <rect width="92" height="28" rx="6" class="tag"/><text x="46" y="19" font-size="11" class="purple" text-anchor="middle">FULL-STACK</text>
+    <rect x="102" width="56" height="28" rx="6" class="tag"/><text x="130" y="19" font-size="11" class="purple" text-anchor="middle">AI</text>
+    <rect x="168" width="110" height="28" rx="6" class="tag"/><text x="223" y="19" font-size="11" class="purple" text-anchor="middle">AUTOMATION</text>
+  </g>
+
+  <text x="22" y="177" font-size="12" class="muted">React · TypeScript · GitHub Actions · Data pipelines</text>
+  <rect x="394" y="168" width="110" height="34" rx="7" class="btn"/>
+  <text x="449" y="190" font-size="12" class="title" text-anchor="middle">GITHUB ↗</text>
+</g>
+
+<!-- CARD 02 -->
+<g transform="translate(606 210)">
+  <rect width="526" height="220" rx="10" class="card"/>
+  <text x="22" y="30" font-size="12" class="purple">02 / FEATURED</text>
+  <rect x="414" y="14" width="90" height="24" rx="12" fill="#ECFDF5" stroke="var(--accent)"/>
+  <circle cx="430" cy="26" r="4" fill="var(--accent)"/>
+  <text x="441" y="30" font-size="11" class="green">PUBLIC</text>
+
+  <text x="22" y="72" font-size="22" class="title">FOOTBALL TRAINING TRACKER</text>
+  <text x="22" y="99" font-size="13" class="muted">Coach/player training platform with AI-assisted analysis &amp; progress.</text>
+
+  <g transform="translate(22 121)">
+    <rect width="74" height="28" rx="6" class="tag"/><text x="37" y="19" font-size="11" class="purple" text-anchor="middle">MOBILE</text>
+    <rect x="84" width="56" height="28" rx="6" class="tag"/><text x="112" y="19" font-size="11" class="purple" text-anchor="middle">AI</text>
+    <rect x="150" width="80" height="28" rx="6" class="tag"/><text x="190" y="19" font-size="11" class="purple" text-anchor="middle">FLUTTER</text>
+  </g>
+
+  <text x="22" y="177" font-size="12" class="muted">Flutter · Dart · AR/EN/TR · Player analytics</text>
+  <rect x="394" y="168" width="110" height="34" rx="7" class="btn"/>
+  <text x="449" y="190" font-size="12" class="title" text-anchor="middle">GITHUB ↗</text>
+</g>
+
+<!-- CARD 03 -->
+<g transform="translate(48 456)">
+  <rect width="526" height="180" rx="10" class="card"/>
+  <text x="22" y="30" font-size="12" class="purple">03 / MOBILE</text>
+  <text x="22" y="67" font-size="22" class="title">SKYLINE MOBILE</text>
+  <text x="22" y="93" font-size="13" class="muted">Cross-platform commerce app for printing &amp; design services.</text>
+  <text x="22" y="124" font-size="12" class="muted">React Native · Expo · TypeScript · Firebase · i18next</text>
+  <rect x="394" y="126" width="110" height="34" rx="7" class="btn"/>
+  <text x="449" y="148" font-size="12" class="title" text-anchor="middle">GITHUB ↗</text>
+</g>
+
+<!-- CARD 04 -->
+<g transform="translate(606 456)">
+  <rect width="526" height="180" rx="10" class="card"/>
+  <text x="22" y="30" font-size="12" class="purple">04 / AUTOMATION</text>
+  <text x="22" y="67" font-size="22" class="title">NEXUS ENGINE</text>
+  <text x="22" y="93" font-size="13" class="muted">TikTok Live data scraping, queue automation &amp; live dashboard.</text>
+  <text x="22" y="124" font-size="12" class="muted">Python · FastAPI · Selenium · Asyncio · Uvicorn</text>
+  <rect x="394" y="126" width="110" height="34" rx="7" class="btn"/>
+  <text x="449" y="148" font-size="12" class="title" text-anchor="middle">GITHUB ↗</text>
+</g>
+
+<!-- CARD 05 -->
+<g transform="translate(235 662)">
+  <rect width="710" height="148" rx="10" class="card"/>
+  <text x="22" y="28" font-size="12" class="purple">05 / ANDROID SECURITY</text>
+  <rect x="592" y="14" width="96" height="24" rx="12" fill="#F5F3FF" stroke="var(--purple)"/>
+  <text x="640" y="30" font-size="11" class="purple" text-anchor="middle">COMPLETED</text>
+
+  <text x="22" y="68" font-size="22" class="title">SPYSCAN</text>
+  <text x="22" y="94" font-size="13" class="muted">Android security-awareness app for permissions, privacy &amp; risk indicators.</text>
+  <text x="22" y="122" font-size="12" class="muted">Kotlin · Android Studio · UsageStatsManager · AppOpsManager · MPAndroidChart</text>
+  <rect x="578" y="93" width="110" height="34" rx="7" class="btn"/>
+  <text x="633" y="115" font-size="12" class="title" text-anchor="middle">GITHUB ↗</text>
+</g>
+
+<!-- footer -->
+<text x="48" y="831" font-size="11" class="muted">nael5x / selected public repositories</text>
+<text x="1132" y="831" font-size="11" class="cyan" text-anchor="end">BUILD · SHIP · AUTOMATE</text>
+</svg>
