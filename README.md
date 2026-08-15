@@ -35,3 +35,15 @@
 </picture>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-projects-light.svg">
+  <img src="./assets/featured-projects.svg" alt="Muhammet Nail Farfur — Featured Projects" width="100%">
+</picture>
+
+</div>
