@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1010" viewBox="0 0 1180 1010">
+<rect width="1180" height="1010" fill="#F8FAFC"/>
+<rect x="16" y="16" width="1148" height="978" rx="12" fill="#FFFFFF" stroke="#0891B2" stroke-width="1.2"/>
+<rect x="16" y="16" width="1148" height="40" rx="12" fill="#F1F5F9"/>
+<path d="M16 56H1164" stroke="#BAE6FD"/>
+<circle cx="35" cy="36" r="5" fill="#0891B2"/>
+<circle cx="52" cy="36" r="5" fill="#0891B2" opacity=".85"/>
+<circle cx="69" cy="36" r="5" fill="#0891B2" opacity=".65"/>
+<g font-family='ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace'>
+<text x="90" y="41" font-size="14" fill="#0891B2">projects.sh --featured</text>
+<text x="1132" y="41" font-size="18" fill="#0891B2" text-anchor="end">—  □  ×</text>
+
+<text x="48" y="104" font-size="13" fill="#7C3AED">FEATURED.PROJECTS</text>
+<text x="48" y="140" font-size="31" font-weight="700" fill="#0F172A">Selected Work</text>
+<text x="48" y="167" font-size="15" fill="#475569">Full-stack · Mobile · AI · Automation · Security</text>
+<line x1="48" y1="187" x2="1132" y2="187" stroke="#E2E8F0"/>
+
+
+<g transform="translate(48 210)">
+  <rect width="526" height="236" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="22" y="30" font-size="12" fill="#7C3AED">01 / FEATURED</text>
+
+  <rect x="412" y="14" width="92" height="24" rx="12" fill="#ECFDF5" stroke="#10B981"/>
+  <circle cx="428" cy="26" r="4" fill="#10B981"/>
+  <text x="440" y="30" font-size="11" fill="#10B981">PUBLIC</text>
+
+  <text x="22" y="72" font-size="24" font-weight="700" letter-spacing=".7px" fill="#0891B2">CREATIVE AI</text>
+
+  <text x="22" y="101" font-size="13" fill="#475569">
+    <tspan x="22" dy="0">Bilingual AI discovery, updates &amp; neutral</tspan>
+    <tspan x="22" dy="18">comparison platform.</tspan>
+  </text>
+
+  <g transform="translate(22 143)">
+    <rect x="0" y="0" width="100" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="50.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">FULL-STACK</text>
+    <rect x="110" y="0" width="58" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="139.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">AI</text>
+    <rect x="178" y="0" width="116" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="236.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">AUTOMATION</text>
+  </g>
+  <text x="22" y="205" font-size="13" fill="#475569">React · TypeScript · GitHub Actions · Data pipelines</text>
+</g>
+
+<g transform="translate(606 210)">
+  <rect width="526" height="236" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="22" y="30" font-size="12" fill="#7C3AED">02 / FEATURED</text>
+
+  <rect x="412" y="14" width="92" height="24" rx="12" fill="#ECFDF5" stroke="#10B981"/>
+  <circle cx="428" cy="26" r="4" fill="#10B981"/>
+  <text x="440" y="30" font-size="11" fill="#10B981">PUBLIC</text>
+
+  <text x="22" y="72" font-size="22" font-weight="700" letter-spacing=".7px" fill="#0891B2">FOOTBALL TRAINING TRACKER</text>
+
+  <text x="22" y="101" font-size="13" fill="#475569">
+    <tspan x="22" dy="0">Coach/player training platform with AI-assisted</tspan>
+    <tspan x="22" dy="18">analysis, reviews &amp; player progress.</tspan>
+  </text>
+
+  <g transform="translate(22 143)">
+    <rect x="0" y="0" width="82" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="41.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">MOBILE</text>
+    <rect x="92" y="0" width="58" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="121.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">AI</text>
+    <rect x="160" y="0" width="88" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="204.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">FLUTTER</text>
+  </g>
+  <text x="22" y="205" font-size="13" fill="#475569">Flutter · Dart · AR/EN/TR · Player analytics</text>
+</g>
+
+<g transform="translate(48 474)">
+  <rect width="526" height="236" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="22" y="30" font-size="12" fill="#7C3AED">03 / MOBILE COMMERCE</text>
+
+  <rect x="412" y="14" width="92" height="24" rx="12" fill="#ECFDF5" stroke="#10B981"/>
+  <circle cx="428" cy="26" r="4" fill="#10B981"/>
+  <text x="440" y="30" font-size="11" fill="#10B981">PUBLIC</text>
+
+  <text x="22" y="72" font-size="24" font-weight="700" letter-spacing=".7px" fill="#0891B2">SKYLINE STORE</text>
+
+  <text x="22" y="101" font-size="13" fill="#475569">
+    <tspan x="22" dy="0">Cross-platform e-commerce app for printing</tspan>
+    <tspan x="22" dy="18">&amp; design services.</tspan>
+  </text>
+
+  <g transform="translate(22 143)">
+    <rect x="0" y="0" width="82" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="41.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">MOBILE</text>
+    <rect x="92" y="0" width="118" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="151.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">E-COMMERCE</text>
+    <rect x="220" y="0" width="96" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="268.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">FIREBASE</text>
+  </g>
+  <text x="22" y="205" font-size="13" fill="#475569">React Native · Expo · TypeScript · Firebase · React Query</text>
+</g>
+
+<g transform="translate(606 474)">
+  <rect width="526" height="236" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="22" y="30" font-size="12" fill="#7C3AED">04 / AUTOMATION</text>
+
+  <rect x="412" y="14" width="92" height="24" rx="12" fill="#ECFDF5" stroke="#10B981"/>
+  <circle cx="428" cy="26" r="4" fill="#10B981"/>
+  <text x="440" y="30" font-size="11" fill="#10B981">PUBLIC</text>
+
+  <text x="22" y="72" font-size="24" font-weight="700" letter-spacing=".7px" fill="#0891B2">NEXUS ENGINE</text>
+
+  <text x="22" y="101" font-size="13" fill="#475569">
+    <tspan x="22" dy="0">Live-stream data extraction, automation queues</tspan>
+    <tspan x="22" dy="18">&amp; monitoring dashboard.</tspan>
+  </text>
+
+  <g transform="translate(22 143)">
+    <rect x="0" y="0" width="116" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="58.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">AUTOMATION</text>
+    <rect x="126" y="0" width="86" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="169.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">FASTAPI</text>
+    <rect x="222" y="0" width="112" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="278.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">PLAYWRIGHT</text>
+  </g>
+  <text x="22" y="205" font-size="13" fill="#475569">Python · FastAPI · Playwright · Selenium · Asyncio</text>
+</g>
+
+<g transform="translate(327 738)">
+  <rect width="526" height="236" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="22" y="30" font-size="12" fill="#7C3AED">05 / ANDROID SECURITY</text>
+
+  <rect x="396" y="14" width="108" height="24" rx="12" fill="#F5F3FF" stroke="#7C3AED"/>
+  <text x="450.0" y="30" font-size="11" text-anchor="middle" fill="#7C3AED">COMPLETED</text>
+
+  <text x="22" y="72" font-size="24" font-weight="700" letter-spacing=".7px" fill="#0891B2">SPYSCAN</text>
+
+  <text x="22" y="101" font-size="13" fill="#475569">
+    <tspan x="22" dy="0">Android security-awareness app for overlay,</tspan>
+    <tspan x="22" dy="18">root &amp; permission risk indicators.</tspan>
+  </text>
+
+  <g transform="translate(22 143)">
+    <rect x="0" y="0" width="88" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="44.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">ANDROID</text>
+    <rect x="98" y="0" width="96" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="146.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">SECURITY</text>
+    <rect x="204" y="0" width="80" height="28" rx="6" fill="#FFFFFF" stroke="#7C3AED"/>
+    <text x="244.0" y="19" font-size="11" text-anchor="middle" fill="#7C3AED">KOTLIN</text>
+  </g>
+  <text x="22" y="205" font-size="12" fill="#475569">Kotlin · Android SDK · XML · Security APIs · MPAndroidChart</text>
+</g>
+
+<text x="48" y="982" font-size="11" fill="#475569">nael5x / selected public repositories</text>
+<text x="1132" y="982" font-size="11" text-anchor="end" fill="#7C3AED">BUILD · SHIP · AUTOMATE</text>
+</g>
+</svg>
